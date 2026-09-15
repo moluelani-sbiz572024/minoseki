@@ -1,0 +1,7 @@
+python314.zip
+.
+..\service
+..\excel
+
+# Uncomment to run site.main() automatically
+import site
